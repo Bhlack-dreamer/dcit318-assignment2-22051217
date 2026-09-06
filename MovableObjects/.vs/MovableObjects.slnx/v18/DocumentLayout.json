@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\George\\source\\repos\\dcit318-assignment2-22051217\\MovableObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91A7870-7C00-448E-8CFE-B6900F7C099F}|MovableObjects\\MovableObjects.csproj|c:\\users\\george\\source\\repos\\dcit318-assignment2-22051217\\movableobjects\\movableobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91A7870-7C00-448E-8CFE-B6900F7C099F}|MovableObjects\\MovableObjects.csproj|solutionrelative:movableobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\George\\source\\repos\\dcit318-assignment2-22051217\\MovableObjects\\MovableObjects\\Program.cs",
+              "RelativeDocumentMoniker": "MovableObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\George\\source\\repos\\dcit318-assignment2-22051217\\MovableObjects\\MovableObjects\\Program.cs",
+              "RelativeToolTip": "MovableObjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T04:51:49.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

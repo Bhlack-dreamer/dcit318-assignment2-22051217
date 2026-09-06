@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.exe
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.deps.json
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.runtimeconfig.json
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.dll
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.pdb
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfo.cs
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.sourcelink.json
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.dll
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\refint\MovableObjects.dll
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.pdb
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.genruntimeconfig.cache
+C:\Users\George\source\repos\dcit318-assignment2-22051217\MovableObjects\MovableObjects\obj\Debug\net10.0\ref\MovableObjects.dll
